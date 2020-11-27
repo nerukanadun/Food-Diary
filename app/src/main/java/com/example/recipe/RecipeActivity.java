@@ -11,6 +11,7 @@ public class RecipeActivity extends AppCompatActivity {
     private TextView mRecipeIngredients;
     private TextView mRecipeMethodTitle;
     private TextView mRecipe;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
