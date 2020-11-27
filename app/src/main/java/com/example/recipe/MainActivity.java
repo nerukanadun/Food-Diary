@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
         myrecyclerView = (RecyclerView)findViewById(R.id.recyclerView_id);
 
         myAdapter = new RecyclerViewAdapter(this,recipes1);
