@@ -29,10 +29,7 @@ public class RecipeActivity extends AppCompatActivity {
         String MethodTitle = intent.getExtras().getString("RecipeMethodTitle");
         String Recipe = intent.getExtras().getString("Recipe");
 
-        mRecipeName.setText(Title);
-        mRecipeIngredients.setText(Ingredients);
-        mRecipeMethodTitle.setText(MethodTitle);
-        mRecipe.setText(Recipe);
+       
 
     }
 }
