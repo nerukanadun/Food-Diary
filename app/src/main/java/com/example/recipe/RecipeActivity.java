@@ -23,7 +23,7 @@ public class RecipeActivity extends AppCompatActivity {
         mRecipeMethodTitle = (TextView)findViewById(R.id.method);
         mRecipe = (TextView)findViewById(R.id.recipe);
 
-       
+        Intent intent = getIntent();
         String Title = intent.getExtras().getString("RecipeName");
         String Ingredients = intent.getExtras().getString("RecipeIngredients");
         String MethodTitle = intent.getExtras().getString("RecipeMethodTitle");
