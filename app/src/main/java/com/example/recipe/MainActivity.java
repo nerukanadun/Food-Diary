@@ -57,15 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 "Put some cooking oil in a small bowl and keep ready. You will also need a bowl of ice cold water, a large, flat nonstick pan, 2 sheets of paper towel, a ladle, a spatula, and a basting brush.\n" +
                 "When the upper surface begins to look cooked (it will no longer look soft or runny), flip the dosa. By this time, ideally, the surface that was underneath should be light golden in color. Cook for 1 minute after flipping.\n" +
                 "The dosa is almost done. Fold it in half and allow to cook for 30 seconds more.",R.drawable.dosa1));
-        recipes1.add(new Recipes("Pancake","1 1/4 cups milk" +
-                "1 egg" +
-                "3 tablespoons butter melted" +
-                "1 1/2 cups all-purpose flour" +
-                "3 1/2 teaspoons baking powder" +
-                "1 teaspoon salt" +
-                "1 tablespoon white sugar","Method",
-                "In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth." +
-                "Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.",R.drawable.pancakes));
+       
         recipes1.add(new Recipes("Pasta","1 tsp oil" +
                 "1 tsp butter" +
                 "2 clove garlic, finely chopped" +
