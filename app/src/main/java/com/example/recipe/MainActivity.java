@@ -48,15 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 "Make glaze: In a large bowl, whisk together milk, powdered sugar, and vanilla until smooth. Set aside.\n" +
                 "Line a large baking sheet with paper towels. In a large dutch oven over medium heat, heat 2'' oil to 350°. Cook doughnuts, in batches, until deeply golden on both sides, about 1 minute per side. Holes will cook even faster!\n" +
                 "Transfer doughnuts to paper towel-lined baking sheet to drain and cool slightly. Dip into glaze, then place onto a cooling rack (or eat immediately!)",R.drawable.donut1));
-        recipes1.add(new Recipes("Dosa","3 cups rice" +
-                "1 cup urad daal (split, skinless black gram)" +
-                "3/4 teaspoon fenugreek seeds" +
-                "Salt (to taste)" +
-                "Vegetable / canola / sunflower cooking oil","Method",
-                "Wash the rice and urad daal well. Add the fenugreek seeds to the mix and fill enough water in the rice-daal bowl to cover them about 2-inch deep. Soak overnight.\n" +
-                "Put some cooking oil in a small bowl and keep ready. You will also need a bowl of ice cold water, a large, flat nonstick pan, 2 sheets of paper towel, a ladle, a spatula, and a basting brush.\n" +
-                "When the upper surface begins to look cooked (it will no longer look soft or runny), flip the dosa. By this time, ideally, the surface that was underneath should be light golden in color. Cook for 1 minute after flipping.\n" +
-                "The dosa is almost done. Fold it in half and allow to cook for 30 seconds more.",R.drawable.dosa1));
+       
         recipes1.add(new Recipes("Pancake","1 1/4 cups milk" +
                 "1 egg" +
                 "3 tablespoons butter melted" +
