@@ -1,2 +1,2 @@
 # RecipeApplication
-Simple Recipe Android Application Build to understand RecyclerViewAdapter with a Card View Layout 
+Simple Recipe Android Application Build to understand RecyclerViewAdapter wit h a Card View Layout 
